@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IsOnline</string>
+    <string name="config">Configuración</string>
+    <string name="labelCommand">Comando a ejecutar:</string>
+    <string name="ButtonSave">Guardar</string>
+    <string name="labelpeticiones">Número de peticiones</string>
+    <string name="labelpaket">Tamaño del paquete</string>
+    <string name="labelTimeout">Tiempo de espera</string>
+    <string name="clear">Borrar salida</string>
+</resources>
